@@ -1,0 +1,8 @@
+------Producto-------
+Producto{titulo=Movil xiaomi, descripcion=Movil con camara, categoria=Moviles y telefonia, estadoProducto=Nuevo, precioProducto=111.22, fechaPublicacion=2022-03-11, ubicacion=28742, imagen=xiaomi.png, urgente=false, vendedor=2212332f}
+------Fecha-------
+Fecha de la venta: 2022-03-11
+------Datos del vendedor-------
+Nombre: marcos Dni:2212332f
+------Datos del comprador-------
+Nombre: pepe Dni:87767g
